@@ -7,3 +7,9 @@
 .backtransparente{
     background-color: transparent;
 }
+.displayIB{
+    display: inline-block;
+}
+.bordaDash{
+    border-bottom: 1px dashed #d6d6d6;
+}
